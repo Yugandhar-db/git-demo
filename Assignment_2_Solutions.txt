@@ -1,1 +1,2 @@
 SQL QUERY 2
+Added line 2 in assignment 2
